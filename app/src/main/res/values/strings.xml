@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HomeCook</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment
+    </string>
+    <string name="Product">Продукт</string>
+    <string name="Count">Кол-во</string>
+    <string name="Add">Добавить</string>
+    <string name="SearchButton">Найти</string>
+    <string name="BackButton">Назад</string>
+</resources>
